@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg182"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   sodipodi:docname="btn_word_finder.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:export-filename="btn_word-finder.128x128.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title206">Word Finder</title>
+  <defs
+     id="defs186" />
+  <sodipodi:namedview
+     id="namedview184"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.37959"
+     inkscape:cx="-34.879958"
+     inkscape:cy="52.530058"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g188" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g188">
+    <g
+       id="g586">
+      <rect
+         style="fill:#cc00ff;stroke:none;stroke-width:1.13926;fill-opacity:1"
+         id="rect300"
+         width="128"
+         height="128"
+         x="0"
+         y="0"
+         ry="36.918407" />
+      <g
+         id="g558"
+         transform="translate(-1.3539297)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:73.7829px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.84458"
+           x="6.1239576"
+           y="90.614914"
+           id="text488"
+           transform="scale(0.97638896,1.024182)"><tspan
+             sodipodi:role="line"
+             id="tspan486"
+             x="6.1239576"
+             y="90.614914"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:73.7829px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.84458;fill:#000000">W </tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:86.5171px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.16293"
+           x="86.052666"
+           y="85.550095"
+           id="text551"
+           transform="scale(0.9218148,1.0848166)"><tspan
+             sodipodi:role="line"
+             id="tspan549"
+             x="86.052666"
+             y="85.550095"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:86.5171px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.16293;fill:#ffffff"><tspan
+   style="fill:#ffffff;stroke-width:2.16293"
+   id="tspan547">?</tspan> </tspan></text>
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata204">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Word Finder</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vincenzo De Vivo</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

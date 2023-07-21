@@ -66,16 +66,10 @@
             display: inline-flex;
             margin-top: 2px;
             gap: 3px;
-            width: 74px;
         }
 
         #zoom-in, #zoom-out {
             margin: 0 !important;
-        }
-
-        #clean, #copy, #download {
-            width: 70px;
-            height: 25px;
         }
 
         #header a:active, #header a.pressed{
@@ -153,6 +147,8 @@
             font-size: smaller;
             vertical-align: middle;
             text-align: left;
+            padding-top: 10px;
+            font-size: 13px;
         }
 
         @media (prefers-color-scheme: dark) {
@@ -195,17 +191,21 @@
 </head>
 <body>
     <div id="header">
-        <div id="logo"><img src="ico/btn_circle_text_transformer.20x20.png"> Trova La Parola</div>
+        <div id="logo"><img src="ico/btn_word_finder.20x20.png"> Trova La Parola</div>
         
-        <div id="info-box">Usa <strong>?</strong> per rappresentare un qualsiasi carattere<br>
-            Usa <strong>*</strong> per rappresentare una qualsiasi serie di caratteri</div>
-        <div id="zoom-btns">
-            <a id="zoom-in" href="#" title="Ingrandisci" >➕</a>
-            <a id="zoom-out" href="#" title="Riduci" >➖</a>
+        <div id="info-box">Usa <strong>?</strong> per rappresentare un qualsiasi carattere,
+            e <strong>*</strong> per rappresentare una qualsiasi serie di caratteri
         </div>
-        <a id="clean" href="#">Cancella</a>
-        <a id="copy" href="#">Copia</a>
-        <a id="download" href="#" >Scarica</a>
+      
+        <div>
+            <div id="zoom-btns">
+                <a id="zoom-in" href="#" title="Ingrandisci" >➕</a>
+                <a id="zoom-out" href="#" title="Riduci" >➖</a>
+            </div>
+            <a id="clean" href="#">Cancella</a>
+            <a id="copy" href="#">Copia</a>
+            <a id="download" href="#" >Scarica</a>
+        </div>
         <div><input id="input-text" autofocus/><a id="find" href="#">Trova</a></div>
     </div>
     <div id="body">

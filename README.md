@@ -8,9 +8,12 @@ Estensione Chrome per trovare una parola italiana
 
 - 
 
-## ☕ Offrimi un caffè
+# Links
+- Home page: https://www.vincenzodevivo.com/
+- GitHub: https://github.com/deltavi
 
+# ☕ Offrimi un caffè
 Mi vuoi offrire un caffè! Visita 
-https://www.buymeacoffee.com/vincenzodevivo
+https://www.buymeacoffee.com/vincenzodevivo oppure https://www.paypal.com/paypalme/VincenzoDeVivoAutore
 
 ## Screenshots

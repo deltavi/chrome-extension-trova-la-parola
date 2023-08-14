@@ -1,10 +1,8 @@
 {
   "name": "Trova La Parola",
   "description": "Estensione Chrome per trovare una parola italiana mediante wildcard (?,*)",
-  "version": "0.2",
+  "version": "0.4",
   "permissions": [
-    "activeTab", 
-    "clipboardWrite"
   ],
   "icons": {
     "16": "ico/btn_word_finder.16x16.png",

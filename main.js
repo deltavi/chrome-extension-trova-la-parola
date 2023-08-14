@@ -114,6 +114,16 @@ function addOutputLine(text, invert) {
     navigator.clipboard.writeText(text)
   };
   o.appendChild(bc);
+
+  let bg = document.createElement("span");
+  bg.innerText = "🔍";
+  bg.title = "Cerca con Google";
+  bg.classList.add("out-btn-ico");
+  bg.onclick = function () {
+    window.open("https://www.google.com/search?q=" + encodeURIComponent(text) , '_blank')
+  };
+  o.appendChild(bg);
+
   output.appendChild(o);
 }
 
